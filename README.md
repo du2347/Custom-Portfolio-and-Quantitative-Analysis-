@@ -1,7 +1,7 @@
 # Algorithmic Trading Portfolios
 ###
 
-This financial research portfolio delves into the comprehensive quantitative analysis performed on diverse investment portfolios to benchmark their performance against the renowned S&P 500 index. Through an array of analytical methodologies and calculations, this study sought to discern whether portfolios exhibited superior performance and risk management capabilities compared to the broader market.
+This financial research portfolio delves into the comprehensive quantitative analysis of diverse investment portfolios to benchmark their performance against the renowned S&P 500 index. Through an array of analytical methodologies and calculations, this study sought to discern whether portfolios exhibited superior performance and risk management capabilities compared to the broader market.
 # 
 ### Objective 1: 
 Construct an analysis notebook using Python and Pandas as a comprehensive tool to analyze and visualize significant metrics derived from historical daily returns of multiple portfolios, covering the period from 2015 to 2019. Investment portfolios for the following entities: 
