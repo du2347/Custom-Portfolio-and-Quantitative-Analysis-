@@ -4,7 +4,7 @@
 This financial research portfolio delves into the comprehensive quantitative analysis of diverse investment portfolios to benchmark their performance against the renowned S&P 500 index. Through an array of analytical methodologies and calculations, this study sought to discern whether portfolios exhibited superior performance and risk management capabilities compared to the broader market.
 # 
 ### Objective 1: 
-Construct an analysis notebook using Python and Pandas as a comprehensive tool to analyze and visualize significant metrics derived from historical daily returns of multiple portfolios, covering the period from 2015 to 2019. Investment portfolios for the following entities: 
+Constructed an analysis notebook using Python and Pandas as comprehensive tools to analyze and visualize significant metrics derived from historical daily returns of multiple portfolios. This analysis covered the period from 2015 to 2019 and focused on investment portfolios associated with the following entities:
 
   1. BERKSHIRE HATHAWAY INC
   2. PAULSON & CO.
@@ -12,8 +12,8 @@ Construct an analysis notebook using Python and Pandas as a comprehensive tool t
   4. TIGER GLOBAL MANGEMENT LLC
 
 ### Objective 2: 
-Develop a diversified custom portfolio comprising stocks from reputable companies, specifically Apple Inc. (AAPL), Costco Wholesale Corporation (COST), and Alphabet Inc. (GOOG), based on historical quantitative analyses.
-Perform a comprehensive analysis of the custom investment portfolio by calculating the annualized standard deviation to assess volatility and risk exposure. Visualize rolling standard deviation with a 21-day window to identify volatility patterns within the portfolio. Determine correlations with other portfolios to unveil relationships and dependencies. Compute the beta against the S&P/TSX 60 index to assess market-related risk exposure. Derive Sharpe ratios in a visual bar plot to evaluate risk-adjusted returns. Collectively, these analyses aim to provide a holistic understanding of the portfolio's performance, risk characteristics, and relative position compared to market benchmarks, contributing valuable insights for strategic investment decision-making.
+Developed a diversified custom portfolio comprising stocks from reputable companies, specifically Apple Inc. (AAPL), Costco Wholesale Corporation (COST), and Alphabet Inc. (GOOG), based on historical quantitative analyses.
+Conducted a comprehensive analysis of the custom investment portfolio by calculating the annualized standard deviation to assess volatility and risk exposure. Visualized rolling standard deviation with a 21-day window to identify volatility patterns within the portfolio. Determined correlations with other portfolios to unveil relationships and dependencies. Computed the beta against the S&P/TSX 60 index to assess market-related risk exposure. Derived Sharpe ratios in a visual bar plot to evaluate risk-adjusted returns. Collectively, these analyses aimed to provide a holistic understanding of the portfolio's performance, risk characteristics, and relative position compared to market benchmarks, contributing valuable insights for strategic investment decision-making.
 #
 ### Methodology 
 #### Performance Analysis
